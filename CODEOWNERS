@@ -1,3 +1,6 @@
 
 # In this example, @octocat owns any file in an apps directory
 # anywhere in your repository.
+.github/ @tiagotarciano
+
+CODEOWNERS @tiagotarciano
