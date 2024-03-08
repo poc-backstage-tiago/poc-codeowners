@@ -3,5 +3,5 @@
 # anywhere in your repository.
 .github/ @tiagotarciano
 
-CODEOWNERS @tiagotarciano
+.github/CODEOWNERS @tiagotarciano
 
